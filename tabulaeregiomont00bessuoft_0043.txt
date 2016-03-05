@@ -1,0 +1,47 @@
+XXXV
+
+ibi tantum ease interpolantium, ubi quantitates, ad quas pertinent, siguum
+algebraicum non mutent, interpolationem vero in vicinia transituum ab uno
+ad‘elterum signum magna laborare incommoditate. Hinc sequitur, usum hujus
+methodi in quibusdam casibus hoc poscere, ut inter ipsos numeros, ad quos
+logerithmi pertineant, interpoletur. Exemplo utar computatione α’-α et δ’-δ
+pro Culminatione stellae α Lyrae die 26. Octob.⁴ 1828 pro meridiano Regio-
+
+montano = ,
+Dies datus ............. 1828 Octob.· 26
+
+Reductio diei ........ Α ............. -1- Ο,067
+
+Dies reductus ........... 1828 Octob.26,067
+g=18¹1311,1...... 3⁴-
+8' .................................. 0,
+*Argumentum Tabulae . . . . 1828 Octob. 27,061
+Huic Argumento respondent in Tabb. VIII et IX LogA, B, 0, DJ, τ . . . . .
+9‚9485; 0‚9283; 1‚1917; 1,0448; 9‚9135, quorum ope, adhibitis valoribus
+
+coefficientium a, b, etc. supra datis, inveniuntur: ⁰
+
+Si haec ratio 'rabulas VIII et IXv adhibendi in· usum vocatur, commodius
+erit, Ου’ calculare ex duabus iisque separatis partibus CTangw Cos B—OSina
+Sina, quam quantitatem c' quaerere ex formula e duobus terminis composita.
+
+Altera methodus Tabulae mutationem desideret. Quoniam habemusx
+
+α’- α = Am -ι- [An Sina ÷B Cosa] Tangki‘- '
+1-1-[C'Cosoe -ξ- D Sina] Secd
+-Ιι- τμ -1- Ε
+ὃ’- δ = An Cosa —B Sina -
+.1.[-C'Sina÷D 00⁵ α] Sin ὃ ÷ 2⁶! ⁴ng ω ,90ῇὸ
+-Ι· τ μ’
+formulae, ponendo
+
+gCosG = An hCosH =D
+gSinG=B hSinH =C
+'hanc formam induunt: ⁷ Ι
+α’- α = Am ÷ E÷g Sinai-pa) Tang& -ι- h Sin (Η-ι- α) 8εοιῖ -Ι- τμ
+ὃ’- δ :goos(G¹-1-a)÷ Ῐι Cos(H÷a)Sin3'-1- CTangw 00³8 -Ι- ‘tp'
+Quum quantitates ’
+Am÷E3 Logg3 ἅς Logh3 H; 'CTangw3 Logv ι
+
+ 
+

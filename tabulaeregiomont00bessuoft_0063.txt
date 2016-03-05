@@ -1,0 +1,56 @@
+Lv
+
+in altero triangulo ang-ulus l‘ Ξ 900, latus 11¹ = Τι’. Observato limbo sep-
+tentrionali, quantitas 900 — δ, differentia erit angulorum in puncto a sitorum
+utriusque trianguli, observato australi, quantitas illa summa erit3 latus al
+utrique triangulo commune est. Quoniam pro primo triangulo habemus
+Sin al . Cos (87sslal') Ξ Cos δ’ Cos (m-1-pae—a')
+Sin al . Sin (3,‡1a1‘) Ξ Sin &cosa—cos δ’ Sinn Sin(m÷p—-a')
+pro secundo
+Sin al . Sin lai' Ξ Sin λ’,
+inde derivabimus, eliminando ipsa al et lal‘
+ὲ 8ὶιι1ι’ Ξ Cosci' Cos (ηι-ι-μ-α’).8ἰιιδ,
+-Ι- Cos δ’ Sin (ηι-ι-μ-α’).Οοεδ, Sinn
+— Sin δ’ . cose, Cosn
+Quae aequatio si multiplicata fuerit per Δ, et quantitates α’, δ’, Ῐν expressae
+fuerint per data geocentrica, invenietur:
+ssSinh=cos3 isius, Οοεριι-ξ-μ-α) -1- Cosa) Sin(m÷p—-a) Sinni
+——Sinei 00³3, eosn
+—- ρ Βίιιπ {Cos φ’ [8ἰιιδ, Cos m-i—Cos ὃ, SinmSinn] — Sin ‹p'Cot ὃ, Cosmi
+unde ὃ omni rigore definitur. Sed quoniam quantitates Sin (ηι-ι-μ-α) Sinn,
+Sinm Sinn semper negligi possunt, Cosm vero et Cosn ponere licet = 1,
+habebitur:
+ὲ δίηῙι - ρ Sina Sin (φ’-ὃ,)-- Sin (ὃΙ-δ) - Cos& Sin8,(1—Cos(m-{-p—a)).
+Si μ’ designabit tempus centri Lunae culminantis, erit
+μ -α = (μ-μ’)(1-λ);
+sed quia in quantitate 1 — Cos (ηιψμ -- α) ipsum m poterit negligi, quum
+effectus ipsius tantum ordinis est m Sin (μ-α) , invenietur:
+Sin (3—3') = QSinn Sin(q2'-— δι) ssSinh Ι
+- 00εὸ Sin ὃ, (1 - λ)2 (μ - μ’)2 sung.
+Inde haec instituendi calculi norma, quae ad veritatem satis accedit, facile
+derivatur, ubi μ - μ’ expressum est minutis secundiss temporis:
+Sinp Ξ ρδὶιιπ 8ἰιι(φ’- δ’)
+ὃ--ὣ -1-pss12ss C} Sinp snm
+- 232''s1n1¹'.81n2‹5,(1 - λγ (μ - μγ
+Declinatio ita inventa ad temporis momentum μ’ reducitur, pro quo jam de-
+terminata est' Adscensio recta, addendo variationem per temporis intervallum
+μ”- μ. Ergo si momentanea Declinationis variatio, ad temporis unitatem
+
+duodecim horarum relata, minutisque primis expressa, significatur per Δδ
+
+Δδ
+721,971
+
+λ quaesita Declinatio erit = δ -1-(μ”-- μ)λ’. Quantitas λ’ invenitur in
+Tabula XIII.
+
+Exemplum. Quaeritur Lunae et Adscensio reeta et Declinatio, quae
+
+prodeant ex observatione Regiomontana in meridiano facta die 13. Jun. 1821.
+
+poniturque
+
+λ’-Ξ
+
+ 
+

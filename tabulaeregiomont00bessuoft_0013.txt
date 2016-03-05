@@ -1,0 +1,53 @@
+completa collatio. Serius autem quum absolutas Adscensiones rectas 36 stel-
+larum fundamentalium bis, pro 1815 et 1825, ex propriis observationibus de-
+stinassem, eas conquisivi correctiones, quae Adscensionibus rectis catalogi
+Piazziam· universe admovendae essent, ut earum cum iis, quae modo laudavi,
+fieret plana consensio. Ita formulae illae secundam mutationem passae ⁸) in
+
+has sequentes abierunt
+ψ Ξ 1 . 5o''‚37572-— tt.o'',ooo1217945
+2 ψ, Ξ t . 50⁹,21129 -ι- te . O'',0001221483
+[] ω---Ξδο 281018,o.÷u 0⁹¹,ooooo984233
+w==23 28180 t. O'',48368
+--tt. O'' ,00000272295
+Quae formulae, substitutae' ιιι [1] et evolutae ad potentias temporis suppeditant
+H = 171036'1o‘1—t .5”,21
+[3] ζ π Ξ 1.0'',48892 -tt.o''‚0000030719
+λ Ξ t. 0¹¹,17926 —tt. O'' ‚0002660394
+
+Nunc duo illa problemata, quibus locorum stellarum· mutationes, ex Prae
+cessione manantes, definiantur, solvere licet, nempe
+
+Problema Ι. Data stellae Longitudine l, Latitudine b pro ΐᾲιιροιιζ,
+1750 -ι- t, invenire Longitudinem l' et Latitudinem b' pro tempore 1750 -l-Q'ss
+
+Sit stellae Longitudo et Latitudo, ad fixam Eclipticen et fixum punctum
+Aequinoctiale anni 1750 relata, L et Β, sphaericum triangulum, quod polos
+
+e et ε’ cum stella connectit, nobis praebebit
+
+CosB Cos(D—H) = Cosb Cos(l-—11—1p,) , , .
+[⁴] Ξ CosB Sin (L-H) Ξ Cosb Sin (l— Π- ψΙ) Cosa —Sinb 8ἰιιπ ’ἶ
+SinB— Ξ Cosb Sin (l— H—zp') Sin π -Ι- Sinb Cosn.
+
+Harum formularum ope inveniuntur L et Β, quae constantes habent valeres,
+modo sit stella revera immobilis Si valores ipsorum H, π, ψ, pref* tem
+pore 17504- 1¹ significanturlper H',7z'‚1p,'‚ sequitur ex eodem triangulo?
+eosb‘ cos(1‘²-'-'1'1'i—1pf) = eosB eos(L- Π) ’ ’”
+[5] 3 Cosb' Sin (P— H¹'——-1p') Ξ CosB Sin (L— H'')Cos7z -ι- 8ἰιιΒ 8ἱιιπ’
+Sinb' Ξ —CosB Sin (L—H‘) Sinn' -j- SinB Cosn'
+quibus formulis inveniuntur b' et l'.
+
+Evitare poteris calculum ipsorum L et Β, quum eliminaveris ea ex
+aequationibus [4] et [5]‚ quod fieri potest ejusdem methodi usu, quae re-
+spectu Adscensionum rectarum et'Declinationum' infra explicabitur. ’ Sed illis
+hic immorari, supervacaneum habeo, quia propter tardiorem Eeliptices mo—
+tum, quadrata illorum π- et π’ poterunt negligi, etiam tum, quu'm t aut ε’ ,
+plura saecula amplecterentur. Qua de re approximatio hoc nixa sufficiet ιιι
+omnibus casibus, qui possunt revera occurrere Neglectis igitur 7r'7r et π ’,π’
+ex aequationibus [4] et [5] habebimus ’
+
+’) monomacho Naehrichten, Nr. 9².
+
+ 
+

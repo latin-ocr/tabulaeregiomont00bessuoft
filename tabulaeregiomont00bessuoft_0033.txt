@@ -1,0 +1,57 @@
+XXV
+
+et ponendo medium Solis motum diurnum=59¹8¹',8302,
+k 1= — 21³ 25¹ 32⁹·‚698 -ξ- t . 11¹ 12”,18798 ÷ n . 0¹¹,oo2975 — f . 6¹·
+sive erit decimalibus diei partibus expressum,
+k= — o,10107289 -ι- t . o,oo77799585
+4- tt. 0,000000034483 — :if-
+
+Prior Tabula computata est secundum has formula, posterior Tabula
+meridiatum continet differentias, quibus spectatissimae speculae Astronomicae
+distant a specula Parisiensi, sive quantitatem d ad eas determinationes, quae
+nunc mihi certissimae videntur.
+
+Exemplum. Quaeritur Reductio dierum pro anno 1829 et pro specula
+
+Regiomontana.
+Tab. 1. 1829 ......... - 3¹· 0‘36'',7‚ sive -0,125
+
+- 11. Regiomontum. . - 11· 12139·'‚0, sive — 0,o50
+
+Reductio dierum anni 1829 ......... - 4¹⁸1sfl5vy, sive — 0,l75
+
+Tabula 111.
+
+Praecessit) Aequinoctiorum media.
+
+Haec Tabula secundum formulas [2], [7] et [16] supra traditas calculata
+est, eique explicandae 'supersedere possumus, quum formulae pro annuis va·-
+riationibus Adscensionis rectae, Declinationis, Longitudinis et Latitudinis in-
+feriori Tabulae margini adscriptae sint.
+
+Praecessiones ammae stellarum a Bradtq‘o observatarum, quae pro 1755
+et pro 1800 in „Fundamentis Astronomiae pro Anno 1755“ expositae sunt,
+secundum valores ipsorum m et n paulo diversos computatae sunt. Haud
+superfluum duco, correctiones hic promere illis addendas, ut congruant cum
+nova illa Praecessionis determinatione, ad quam condita est Tabula 111.
+
+significando adhibitos valores Constantium, a quibus annuae praecessio-
+nes in Adscensione recta et Declinatione pendent, per m et n, valores nunc
+adhibendos per m ,ι- Am et π-ι- An, Praecessiones prioribus computatas per p,
+correctas per p -ι- Ap, habebimus pro 1750÷ t
+
+m == 45”,99592 -ξ- t . 0‘'‚000308645o
+ιι = 20'205039 '— t. w,oooo970204
+
+⁹⁰³⁰ ηι-ι-Δηι =. 46⁰,o2824-1- t.0''‚0003086450
+
+n -ι-Δη = 20⁰,06442 - t . θ”,οοοο970204
+
+“fg‘' Am Ξ ÷ o”,03232; An = -ι- 0¹'‚01403
+
+Inde sequitur pro Adscensione recta
+p Ξ m -1- n Tang3 Sina
+ΔΡ = Δηι-ι- ΔπΤωιςδ Sina
+
+ 
+

@@ -1,0 +1,57 @@
+LII
+
+Tabula XIII.
+
+Reduc-tio observationum Lunae.
+
+Quoniam Adscensio recta Lunae non immediate e transitu centri Lunaris
+
+per meridianum sed e temporibus appulsuum unius alteriusve limbi ad fila
+'rubi meridiani observatur, primum quaeram Adscensionem rectam α centri,
+quae uni horum momentorum, nempe tempori sidereo μ, partibus arcus ex-
+presso, respondeat. Data supponunturz Declinatio ὃ, radius disci geocen-
+tricus Ιι, Parallaxis horizontalis aequatorialis π, Latitudo geocentrica loci
+observationis φ’ ejusque distantia a centro terrestri ρ. Instrumenti porro
+collocatio vitiumque collimationis cognita supponuntur, nempe angulus hora-
+rius atque distantia polaris poli orientalis axis rotatorii instrumenti atque di-
+stantia circuli a medio filo in sphaera coelesti descripti ab hoc puncto. Has
+quantitates, ut fit in usitata formula pro reductione transituum observatorum
+ad meridianum, nempe .
+m -ι- η Tang& -Ι- c seed
+
+< signabo per — 900 — m ‚ 900-1- n , 90⁰ — c.
+
+Si appulsus observatus est ad filum, cujus distantia a medio filo sit f,
+positive sumpta, si transitus per illud prius, negative, si serius, quam per
+medium filum evenerit, observata distantia. limbi Lunaris ab orientali axis
+polo ‘erit = 900 —- c —f, centrique = 90⁰ —c— f ζ Ιι’, ubi h‘ apparentem
+significat radium, superiusque signum pro praecedente, inferius autem pro
+sequenti limbo valet. Haec distantia latus erit trianguli sphaerici, cujus duo
+reliqua latera, et distantia poli axis instrumenti et distantia. Lunae a polo
+coelesti 900 4- η, 900 - δ’, angulum comprehendunt 900 ÷ m -ξ- μ —- α’, ¹ ubi
+α’ et δ’ significant apparentem Lunae Adscensionem rectam et Declinationem. ν
+Igitur habemus
+
+Sin (04fss Iz') = — Sinn Sina'- Cosn Cos δ’ 8ἰιι(ηι-ῐ-μ-α’)
+
+= —- Sinn . Sina*
+- coen Sinm . Cos δ’ Cos (μ--α’) .
+- Cosn Cos m . Cos δ’ Sin (ιι-α’)
+
+Haec aequatio quum fuerit multiplicata per distantiam Lunae ab obser-
+vatore = Δ, quantitates, quae ab apparente Lunae loco dependent, per
+locum geocentricum poterunt exprimi, quod fit per usitatas formulas:
+
+ACos δ’ Οοε(μ-α’) = Cos& CosQa—a) — ρ Sina Cos φ’ ⁴
+Aeon δ’ Sin (μ-α’) = Cosa Sin (μ-α)
+’ Δὸἰηδ’ = Sina-osma Simp'
+Δ Sin 71! = Sinlz
+Δ ΟοεῘι’ = fleosm —29 SinnjSinff Sincp÷Cos3 Coscp CosQu—an
+-ξ- ρρ Sinw² ξ
+
+Ex quo apparet, si problematis solutio summo rigore quaeratur, inven-
+
+tionem ipsius α a solutione aequationis quarti gradus pendere. Sed quoniam
+
+ 
+

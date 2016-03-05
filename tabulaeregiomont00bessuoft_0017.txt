@@ -1,0 +1,54 @@
+IX
+
+Altera eaque indirecta, quae mihi omnium commodissima videtur, quaque in
+omnibus casibus, ubi stella esset polo proxima, saepissime usus sum (nam
+in his solis poterit sermo esse de calculo secundum finitas formulas instituendo),
+in formulis [13] nititur postulatque approximativum valorem A ipsius α’, ita
+ut sit verus = A -ff-x, ubi x exiguo minutorum secundorum numero cir·-
+cumscriptum sit. Quodsi variationes logarithmorum ipsorum Cos÷(a'-}- a),
+Cos÷(a'—a), Sin3(a'÷ a) , Sin÷(a'- α) pro uno secundo Argumenti,
+quales immediate reperiuntur in tabulis logarithmicis‚ designentur his litteris
+c, c', s, ι’, invenientur variationes in hypothesi a'=A calculatorum logarith-
+morum ipsorum Tang÷(5'- ὃ) et Cotang ἕρδ’-μδ) resp. = ÷(c- c')x et
+ἐρ - ε’)π, et dividendo variationes eas per variationes legarithmorum ipsius
+Tang÷(‹5'-6) et ipsius Cotang÷(6'÷3) pro minuto secundo Argumenti erunt
+ὲ(ὃ’-δ) = d -Ι- ατ
+
+ἐφ’-μδ) = α’-ι- 5²·
+ubi d et α’ valores significant ipsorum ὲ(δ’- ὃ) et ἔθ’-ἥ· δ) calculati pro
+α’ = A. Habebimus igitur ,
+31= a1÷a÷ (β-ι-αμ
+ὃ = d'—d-}- (ιθ-401
+et, quum data sita, erit
+
+:t = 3*(d'—d)
+β-α.
+unde α’ inveniri potest et δ’.
+
+Sed in casibus longe plurimis commodius erit, a' et δ’ per series, quae
+ad potentias temporis progrediantur, evolvere, quaeque, nisi polo proxima
+erit stella, citissime convergant necesse est. Has series hoc modo designa-
+bimus
+
+α’ =. α -Ι- U' (t'— t) -Ι- U'' (t'—t)² 4 etc.
+
+<5¹ = δ -ι- W'(t¹-- t) -ι- W¹‘(t‘—t)2 -ι- etc.
+eas autem non ultra tertium terminum hic prosequemur, quia commodius erit,
+si altiores termini non possunt neglegi, finitas formulas supra traditas in cal-
+culo adhibere. Alio loco harum serierum altiores terminos consideravi *), sed
+si quaeratur, Tabulam condere mediorum locorum pro stella polo proxima,
+commodissime res expedietur, si haec loca secundum formulas [13] sive [14]
+calculantur pro certis annis, e. g. pro octavo quoque auno, singulorum vero ”
+annorum lacunae interpolatione explentur.
+
+Formularum [8] et [9] completa differentiatio exhibet, ipsis L et B pro
+constantibus numeris sumtis, ·
+
+(ἒὲ [eom ,ι- Sin aranga Sinon-em
+
+-ἕ . TangB cos (0242.)
+
+⁸) Fundamenta AstronomIae pro Anno 17⁵5. P. ³⁰1 etc.
+
+ 
+

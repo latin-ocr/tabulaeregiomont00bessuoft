@@ -1,0 +1,51 @@
+XXXI
+
+contra legaritbmos quantitatum a, b, c, d, μς α’, b', ε’, d‘ μ’ a loco stellae
+ejusque motu proprio dependentium.
+
+Priorem hujus computationis partem Tabula VIII pro decimo qnoque die
+annorum 1750 usque ad ,1849 incl. continet. Logarithmos ipsorum A et Β
+amici computaverunt mihi carissimi, Dr. a Steinheiae. et Knorre, qui computatio-
+nem pro annis 1750 usque ad annum 1800 iterabant, et Olufsen, qui com-
+putationem susceperat pro annis 1800 usque ad annum 1850. Quo labore
+haud contemnendam arbitror laudem meruisse homines de Astronomia alias
+optime meritos. Quod reliquum erat computationis, id ipse vocavi ad calculos.
+
+Jam accuratius explicabo Tabulam. Quantitates i, τῖ’, δ” inveniuntur po-
+nendo pro m et n valores [16]
+1750 . . . . . . i= 0‘'‚33308; ⁸⁷: 0⁶‚oo4013 i''= 0”,02651
+1850 .......... 0⁶‚333243 0¹,oo4013 0¹¹,02652
+et porro - ι
+1750. . . . . . 12=o¹206453 h1=0¹',0008; 72¹¹: o¹'‚oo51
+1850 .......... 0”,0468 ; 0'',0006; 0”,0037
+
+Differentiae tempori esse proportionales, supponere possumus. Locus Nodi
+Lunaris secundum Bargianas Tabulas pro eo temporis momento, quo media
+Longitudo Solaris inifio anni 1800 aequabat 2800, suppositus est = 33⁰ 16¹
+25¹¹‚9; ejusque motus retrogradus per annum tropicum = 19⁰ 201 29¹¹,53.
+Longitudinibus Solis, depromptis e Tabulis meis, adjeci -Ι- 20”,25 propter
+Aberrationem. Ita Longitudines Solares (Θ) necessarias ad computandam
+Tab. vm accepi ex sequentibus formulis, in quibus m significat Mediam
+Longitudinem3 Media vero Anomalia pro tempore 1800-pt posita
+μ == m — [2790301 8”,39 -1- t . 61¹¹‚5171 -ι- tt . 0¹¹,0002037965J ,
+Eccentricitate v
+e = 0,o167922585 — t. 0”,0000004359
+1750 . . . . Θ = m -ῐ- 20”,25 -f- 10 55’ 37”,4889 Sin μ -ι- 1’ 12”,9147 Sin Ξμ
+’ -ι- 1''‚o627 Sin 3μ -ξ- 0”,0177 Sin 4μ,
+1850 . . . . Θ = m -4- 20¹¹,25 -ι- 10 55‘ 18”,0710 Sin μ -ι- 1' 12⁸,5071 Sinssp
+-ι- 1”,0538 Sin-⁹251, -ι- 0”,0175 Sin 4μ
+Annus tropicus, unde dependet τ, est ·
+pro 1750 = 365³,242223490
+pro 1850 == 3656342216604
+
+' v Tabula his adhibitis elementis calculata logarithmos continet ipsorum
+A, Β, C', D, τ quantitatemque E, quae quum omnibus sit Adscensionibus
+rectis communis, neque unquam plus quam centesimas partes minuti secundi
+transcendat, in pluribus casibus negligi poterit. Haec omnia in Tabula in-
+veniuntur pro initio annorum fictorum 1750. . . . 1849, et pro iis temporis
+momemfis, quae 10, 20, 30. . . . 370 dies sidereos sequuntur initium. Ea
+tempora consignavi Jan. Ο,10 . . . .Dec. 36, pro annis autem intercalaribus
+Jan. 1,11 .. . . Dec. 66. Itaque Anno tropico, diebus expresso, significatoque
+
+ 
+

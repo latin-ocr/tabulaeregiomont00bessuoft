@@ -1,0 +1,88 @@
+XXXIV
+
+    
+
+       
+       
+
+et δ’-ὃ, addita variatione per -ι- 0,061 dies, valent pro Oct. 26, Nov. 5,
+15 etc., atqui haec variatio sine sensibili errore invenietur, multiplicando
+fractionem diei per vigesimam partem summae differentiae antecedentis et in-
+
+sequentis. Hoc modo Ephemeris pro Culminationibus α Lyrae in Meridiano
+Regiomontano invenitur:
+
+        
+     
+          
+          
+    
+
+ 
+
+         
+           
+   
+     
+       
+   
+       
+   
+     
+   
+     
+     
+     
+     
+     
+       
+ 
+
+    
+
+ι A. R. ’ nea.
+
+1828 Μ ’Μ
+
+Oct. 26 -ι- 1ὅ,59 ..- 2528& ,,
+Noc. 5 -ι- 13‚41 “ 3⁹¹⁸ ÷ 2:5‚47 ““ ¹⁹39
+15 4. 10 80 ““ 2²⁶1 -ι- 23 65 “ ¹³8²
+25 ..μ ε’83 “ ¹‘9⁷ -ι- 21’43 “ 22²2
+' Dec. 5 ÷ 7⁹58 “ ¹²2⁵ ..- 18’87 *²³⁵⁶
+15 -ι- 7:12 “ ⁰³4⁶ -ι- 16ὀ4 ““ ²³83
+25 ψ 7,48 ’¹' 0’36 -ι- 13ζο3 “ 3⁷⁰1
+
+   
+
+  
+
+11„ Si plures singulae stellae observationes reducendae sunt ad initium anni,
+e. g. ad Epocham catologi stellarum componendi, neque quod ex unaquaque
+observatione separatim prodeat, sed medium illud, quod ex observationibus
+universis manet, sciscitamur, commodissime res tractari poterit, adhibitis
+quantitatibus ipsis A, Β, C, D, τ, non eorum logarithmis. Quo in casu
+Tabulae VIII usus erit ad condendam Tabulam non-logarithmicam, mutandam*
+in hoc, ut A et τ non ad initium cujusque anni, sed ad Epocham T, ad
+quam reducendae sint observationes, referantur. Quod fieri potest valoribus
+Tabula contentis ipsorum A et τ pro quoque anno, addendo numerum inte-
+grum t— T, t significante annum observationis. Tabula non-logarithmica
+commode poterit interpolari, quod vel commodius fieri potest adhibendo va-
+valores quantitatum C et D pro unoquoque die, datos per Tab. IX. Uni-
+cuique igitur loco apparenti observato valores adscribemus quantitatum A,
+B, 0, D, τ, Ε, reductionemque habebimus medii arithmetici, ex omnibus
+observationibus collecti, quum producta addiderimus coefficientimn a, b etc.
+
+et mediorum arithmeticorum ex omnibus valoribus quantitatum A, B etc„
+sumptis signis inversis.
+
+111„ Si unicus stellae locus apparens separatim est calculandus, etiam
+hoc poterit satis commode fieri ope hujus nostrae Tabulae, duabus quidem
+rationibus, quarum altera nullam aliam praeparationem postulat, altera com--
+modior est, quum necessariam J‘am adhibuerimus praeparationem. Methodus
+prior interpolationem supponit Logarithmorum ipsorum A et Β in Tabula VIII,
+sed quia logarithmi ipsorum C' et D in eadem Tabula non satis uniformiter
+crescunt, qui commode interpolari possint, Tabulam lx adjeci, quae hos
+logarithmos continet pro unoquoque die non solum pro 1750 sed etiam pro
+1850. Hoc modo quum variatio saecularis innotuerit, verus valor inveniri
+poterit pro intermediis annis. Sed in hoc illud notandum est, in logarithmis
+

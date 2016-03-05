@@ -1,0 +1,57 @@
+Igitur hanc utramque Aberrationem separatim examinabo, initiumque du-
+cam ab annua Aberratione. Substitutione in formulis [26] facta, omissisque
+membris independentibus a Longitudin'e Solari et in secundo ordine Eccentri-
+
+citate orbitae terrestris neglecta, positoque κ pro
+k dm
+
+s(1—ee)dt ’
+invenientur .
+α’-α == — κ Sec& [CosQ Cosa Cosw -ff-Sin Q Sina]
+
+-xi-un Sec ὃ 2[(ἳοε2Θ Sin2a(l-fl-Cos 01²)-28in2Q Cos2a Cos ω]
+δ’-δ --.-.-· -1- κ [CosQ(Sina Sin ὃ Cosa> —- Οοεδ Sinw) — SinQ Cosa Sin ὃ]
+
+·-ὲκκ Tang& [Cos2Q(Cos2a(1 -1- Coso‚²)—Sin0›²) ÷2Sin2QSin2a Cosw]
+ubi in ultima formula nonnulla membra, non multiplicata in Tangci, quippe
+nunquam millesimam partem minuti secundi adaequantia, omittere non dubitavi.
+
+Valorem ipsius κ secundum Cl. de Lambre posui = 2Ο”,255, quod pro-
+xime accedit ad valorem e Bradlqji observationibus inventum. Non defuere,
+qui hunc valorem augendum esse arbitrarentur. Sed quum in eo stellarum
+maxime consulerent observationes Adscensionum rectarum, illud verendum esse
+duxi *), ne Maximum Aberrationis in Adscensione recta se Maximo misceat
+effectus, quem in instrumenta exercent Astronomica diurnae caloris variatio-
+nes. Quas quum non liceat directe ea qua par est praecisione definire, eas
+non sine pertractatione rei omnino abesse judicabimus. Itaque posito κ =
+20'',255, formulae, quae annuam Aberrationem exhibent, erunt hae:
+
+α’-α —.-= -20”,255 SecB [Cos Q Cosa Cos ω -Ι- SinQ Sina]
+- —- 0¹¹,ooo9157 Sec 3². Sin2a ΟοεΞΘ
+-ι- Ο”,ΟΟΟ9123 Sec 3² . Cos 2α Sin2Q
+[2⁷] δ’-ὃ --.- -1-20”,255 CosQ[Sina Sino* Cos w — Cosa* Sin ω]
+-20”,255 SinQ Cosa Sin&
+-ι- [Ο”,0000394-Ο”,0004578 Cos 202] Tang3 . Cos 2Θ
+- Ο”,ΟΟΟ4561 Tango* . Sin2a Sin2Q
+
+Pro stellis, quarum Declinatio minor erit quam 850 311, membra secundi
+ordinis in Adscensione recta non centesimam partem minuti secundi tempora-
+lis amplecti poterunt, pro Declinationibus minoribus quam 87ο 9' non ad cen-
+tesimam partem secundi arcualis ascendere poterunt in Declinatione.
+
+Quum stellae Adscensio recta et Declinatio, Longitudo solaris et Obli-
+quitas Ecliptices, quae in formulis [27] occurrunt, ad verum pertineant Nu-
+
+' tatione jam mutatum Aequatorem, in calculo Aberrationis ‚correctiones erunt
+addendae, a productis Aberrationis et Nutationis profectae, si quis valoribus
+a Nutatione non affectis uti velit. Illae correctiones inveniuntur differentiando
+formulas [27] respectu quantitatum α, ὃ, Θ et ω, et tum ponendo pro da,
+da, dQ‚ dos effectum Nutationis in easdem quantitates. Quodsi ea sola mem-
+
+bra retinentur, quae cum ipsa Declinatione plurimum crescunt i. e. pro Ad-
+
+*) abhandlungen der mathematis-ichen Classe der Akademie von Berlin, fiir 1818 bis
+1819. P. 26.
+
+ 
+

@@ -1,0 +1,46 @@
+XXIV
+
+Ewplicatio ec usus Tabularum.
+
+Tabulae 1 a< 11.
+
+Reductio diei ad annum fictum.
+
+Argumentum omnium hujus operis Tabularum, quae quantitates continent
+a tempore pendentes, series est dierum anni ficti, incipientis eo temporis mo-
+mento, quo sit media Longitudo Solaris=2800. Quare Tabulae hae 'immediate
+
+· locum habebunt· in iis terrae meridianis, pro quibus epocha mediae Longitu-
+dinis Solaris sit -ἶ 2800, sed quia Sol conversionem annuam non integro
+dierum numero conficit, Tabulae alio quoque anno apro alio meridiano valeant
+necesse est. Ι
+
+Si differentia hujus meridiani ¹a Parisiensi tempore metitaJ positiveque
+sumta adversus orientem significatur per k, differentia meridiani loci terrae,
+itidem a meridiano Parisiensi numerata, sed adversus occidentem positive sumpta,
+notatur per d, hujus loci tempori, pro quo quantitates· Tabulis contentae in-
+veniendae sunt, priusquam cum ipso in Tabulas introeatur, addenda esth—ff· d.
+Diem, hoc addito numero reductum ad annum fictum, Diem reductum appel-
+lare placet.
+
+Prima Tabula continet quantitatem le pro quoque anno ab anno 1750 u's-
+que ad annum 1850, non soium horis, minutis et minutis secundis, verum
+etiam millesimis partibus diei expressam. Haec Tabula constructa est secun-
+dum ea Solis elementa, quae ex annalibus quondam observationum Solis a
+Bradlqjo et a me ipso institutarum derivavi *), quaeque Epocham suppeditant
+mediae Longitudinis pro anno 1800 -ι- t et pro meridiano Parisiensi
+
+E =279⁰ 54' 1⁰,36 »ι- t . 27¹¹‚6o5844 -ι- tt . 0⁶‚0001221805
+—f . 14* 47¹'‚083 y
+ubi f -pro anno quoda-m decimi noni saeculi est residuum r, quod restat, si
+numerus annorum dividatur per 4, pro anno autem decimi octavi saeculi
+=== r ·- 4·
+Inde reperietur k secundum formulam=
+k „— E-2800
+
+mm
+
+*) Schamacher, Astronomische Nachrichten. Nr. 13³.
+
+ 
+

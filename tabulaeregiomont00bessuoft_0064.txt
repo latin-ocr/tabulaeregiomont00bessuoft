@@ -1,0 +1,64 @@
+Lv1
+
+1, Appulsus praecedentis limbi ad' quinque fila instrumenti meridiani
+observati sunt:
+
+’ 49’2”,8 Ι 49’ 19”,8 Ι 15¹1 49'36¹',7 Ι 49’ 53”,-2 Ι 50'91‘,8.
+Per distantias filorum a medio filo, inAequatore
+29‘'‚4225; 14'‘,6386; 14‘'‚3144; 28'‘‚7773
+notum est, medio arithmetico ex omnibus ad quinque fila observatis appulsibus
+intervallum temporis duorum extremorum filorum multiplicatum per o‚00333 ad-
+dendum esse, quod pro hoc exemplo tempus transitus per medium filum suppeditat
+Ξ 1ὄῆ 49’36”,46 -ff- 67,”,Ο ,0,00333 = 151149' 36¹¹,683
+
+Quodsi scire avemuS, quid unumquodque. suppeditet filum‚' e Tabula XIII
+quaerendus est factor Τ. Ex ephemeridibus Gallicis invenietur pro vero
+tempore Parisino τ. 912 10', quod proxime accedit ad tempus observationis:
+
+Δα == 6⁰ 39',0
+
+ὃ = —250 1437
+
+π -“--·- 55, 7''‚0
+Compressione sphaeroidis terrestris posita Ξ 0‚00324, pro Regiomonto erit
+. Logp ’τ- 9,999064o, , φ’ = 54⁰ 32'18‘¹,4
+'unde invenitur Log 29 Sin π Cos (q>'—d)l == 7‚45293.
+Atqui Tabula-,XIII suppeditat:
+
+l. A 9‚99876
+
+l . B o,o1630
+
+- l.Sec‹5 0‚o4359
+
+lJc' = 005865
+cujus ope reductio singulorum filorum ad filum medium obtinetur:
+
+Log.f f . F Temp. transit.
+w Μ κοχκ-κ
+
+1‚46868 ,ι- 314,‚677 1''5 43> stam
+1,16549 -ι- 16‚755 36‚555
+
+. 36‚700
+1‚15577n - 16,384 36‚816
+1,459o5·n - 32,938 36,86'2
+
+Medium ......... Ι 15 49 36,682
+
+ubi exigua differentia O''‚OO]. ex eo oritur, quod in priore calculo interval—
+
+lum temporis extremorum filorum o'',38 majus sumptum est, quam fuisset pro
+distantia filorum. '
+
+Instrumenti deflexiones a meridiano quum essent
+m Ξ ÷ o'‘‚03; n = - 0⁰‚2973 c = — 0''‚017
+invenietur cum δ’ = — 260 9¹
+
+ζ 1-ρ Sinwggz‘g: ξ (νη-μη Tang3'4 c Secff') == -ι- 0”,155
+
+sive tempus· transitus ad meridianum reductum erit
+’ · 157· 49¹ 36‘¹‚837.
+
+ 
+

@@ -1,0 +1,57 @@
+XIII
+
+Ut exemplo utar, eos afferam numeros, ad quos constructae sunt Ta-
+bulae stellae polaris in hoc libro contentaez
+1755 .α Ξ 10055’44”,955; δ Ξ 870 59’41”,12
+1820. α’Ξ 140 15’22”,575; δ’Ξ 88020’54”,27.
+Pro his temporibus inveniuntur ex formulis supra memoratis
+ex [3] ...... λ Ξ 40¹‘‚8897; ÷11⁵¹,2446
+ψ Ξ -ι-4’11”,8756; 458‘45'‘‚7036
+ω Ξ 23028’18”,0002; 23028’18”,0482.
+His numeris pro transitu ab anno 1755 ad 1820 inveniuntur [11]
+z = 24’53”,8861; z‘ = 25’9”,0655; θΞ 21’43”,9394
+Inde, secundum formulas [18] sive [14], habebimus locum pro 1755 ad 1820
+reductum ¹
+
+ex [2] ......
+
+α’ Ξ 14018’54”,703; δ’ Ξ 88020154'‘‚o52
+Qui locus collatus cum loco observato pro 1820 suppeditabit
+Aa! ξ -Ι- 87”,872; A& -ιτ -Ι-Ο”,218,
+sive motum propriumvannuum in Adscensione recta et Declinatione, relatum
+ad Aequatorem anni 1820, quem litteris 12' et 5¹ designabo,
+λ’ Ξ 4 1¹⁷,3518773 i' = ÷o“,0033538
+Ut possit per haec Elementa locus inveniri pro alio tempore, e. g. pro 1850,
+incipiemus ab anno 1820. Hoc modo inveniemus:
+a÷Aa = 14015’22”,575 430. 1”,351877 Ξ 14016’ 3”,1313
+ὃ -ι- Δδ Ξ 8802054”,27 430.o‘'‚0083538= 88020154115706
+z = 11’ 15”,6173; z¹== 11’50”,0325; θ Ξ 1o‘1”,6846
+3-1- λ Ξ 11’ 26”,8619; κ’-λβ Ξ 11’34”,7669
+locum vero pro anno 1850:
+α’ Ξ 160 15’19”,527 3 δ’ Ξ 88030‘34”‚898.
+
+Alias etiam locum pro 1820 sine respectu motus proprii reducere potuis-
+semus ad annum 1850, tum vero secundum formulas [18] calculare, quid
+motus proprius hic valuisset, quo in calculo posuissemust
+
+Δα Ξ 30. 1”,351877 Ξ -ι-40”,5563
+Δδ Ξ 30.0”,0033538 Ξ -ι- 0”,1006.
+
+Postremo, ut usum declarem formularum [18], annuum motum in Adscen-
+sione recta et Declinatione definiam pro anno 1755. Quum pro anno 1820 sit
+h' Ξ -ff- 1'‘‚351877; i' Ξ -Ι- 0”,0033538
+habebimus, adhibitis iusuper valoribus ipsorum z, λ, θ, secundum ultimas
+
+formulas [18], pro anno 1755, ⁷
+Ῐι Ξ -ff- 1¹'‚10839; i Ξ -ι-0”,005032
+
+Ex quo intelligitur, non modicum oriri vitium supponendo, variationes locorum
+stellae polo proximae a motu proprio pendentes tempori esse proportionales.
+
+Reliquum est, ut correctiones memorem, quas subeunt coefficientes [17]
+earum seriemm, quibus exprimantur Adscensio recta et Declinatio. Ex iis,
+quae de mutatione locorum stellarum a motu proprio pendente disserui,
+elucet, illam plane calculo comprehendi ponendo in coefficientibus [17]
+
+ 
+

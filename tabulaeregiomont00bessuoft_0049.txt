@@ -1,0 +1,55 @@
+praeceptum tam diu observatur, donec crescens Solis Adscensio recta Ad-
+sceusionem stellae transgredi coepit, quo fit, ut culminatio stellae Solis cul-
+minationem antegrediatur, ergo consueta dies numerandi ratio a tabulari ra-
+tione numerandi uno die recedat. Quibus omnibus in unum collectis haec
+evadet regula ad formandum Argumentum, quocum ingrediendum sit in Ta-
+bulam, ut pro dato die inveniri possit stellae locus apparens, qui superiori
+ejus Culminationi respondeat:
+Arg. = Diei reducto ÷i
+ubi s· siguificat -
+a) pro stella, cujus AR. =>= 1811401,
+Ο . . . ab initio anni usque ad tempus ubi AB& ς
+AR. stellae, postea vero -1- 1.
+b) pro stella, cujus AR. < 18¹14o²‚
+-ι- 1 . . . ab initio anni usque ad tempus ubi AR& =
+AR. stellae, postea vero -ι- 2.
+
+Dies, quo Sol Adscensionem rectam cujusque illarum 36 stellarum assequa-
+tur, valorque ipsius s· ante et post hunc diem in quaque pagina dextra libri
+secundum hanc regulam memoratur.
+
+Tabulae, quae in dextra pagina invenitur, quaeque summam continet et
+motus medii, ab anni initio numerati, et Aberrationis et Nutationis Solaris
+pro decimo quoque die non ad communem consuetudinem differentiae sunt ad-
+scriptae, sed vigesima pars smmuae differentiarum antecedentis et sequentis,
+quae quasi diurna variatio pro eo tempore, quod in eadem linea reperitur,
+poterit considerari. Schema Tabulae igitur hoc erit:
+
+Dies Numerus Va'riat. diurna
+mlv * m
+
+m α
+m' = m -ε- 10 α’
+m'' = m' -ι- 10 α”
+m''' = m''-{- 10 α’·
+etc. etc.
+
+Si numerus quaeritur y, qui ad diem m -ι- x pertineat, habebimus, neglectis
+differentiis secundam transcendentibus,
+
+b‘- b
+20
+
+Sed quoniam quantitas ⁶¹- b nunquam major reperitur 6‚3 unitatibus ultimae
+notae decimalis Tabulae, sequitur, membrum ultimum, quum nunquam, si
+πὲὲ, decimam talis unitatis partem assequatur, in hoc casu posse negligi.
+Ex quo commodissima prodit ratio Tabulam adhibendi ad condendam Ephe·-
+merida. Si i‘ erit numerus integer, sive major sive minor Reductione diei
+-1- i, sed nou ultra ἐς distans, numeri, qui Tabula continentur, additis in-
+super productis bx, ubi x = Reducta‘oni diei -ι- ἰ- ἰ’, pro diebus valent,
+qui intervallo δ’ dierum eos, qui sunt in Tabula, antegrediuntur.
+
+y=a÷oeb÷aex.
+
+ 
+
